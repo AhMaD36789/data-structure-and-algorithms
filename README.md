@@ -2,3 +2,4 @@
 
 - ## [reverse an array]()
 - ## [Insert and shift an array in middle at index]()
+- ## [Array Binary Search]()
