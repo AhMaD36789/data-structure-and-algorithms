@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             SinglyLinkedList test = new SinglyLinkedList();
+            //test.AddNodeToFront(Convert.ToInt32(Console.ReadLine()));
             test.AddNodeToFront(1);
             test.AddNodeToFront(2);
             test.AddNodeToFront(3);
