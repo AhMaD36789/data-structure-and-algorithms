@@ -14,4 +14,10 @@ space complexity for the entire project O(n)
 
 ## solution
 
-
+![img1](../images/1.png)
+![img1](../images/2.png)
+![img1](../images/3.png)
+![img1](../images/4.png)
+![img1](../images/5.png)
+![img1](../images/6.png)
+![img1](../images/7.png)
