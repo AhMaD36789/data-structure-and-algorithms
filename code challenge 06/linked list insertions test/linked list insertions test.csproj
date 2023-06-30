@@ -23,4 +23,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Linked List Insertions\Linked List Insertions.csproj" />
+  </ItemGroup>
+
 </Project>
