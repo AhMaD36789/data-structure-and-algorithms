@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\code challenge 06",
+    "\\code challenge 06\\LinkedListInsertionsTest"
   ],
-  "SelectedNode": "\\Linked-list-insertions.sln",
+  "SelectedNode": "\\code challenge 06\\LinkedListInsertionsTest\\LinkedListInsertionsTest.csproj",
   "PreviewInSolutionExplorer": false
 }
