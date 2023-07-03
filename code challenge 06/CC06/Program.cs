@@ -103,7 +103,7 @@ namespace CC06
         }
 
 
-        public void InsertBefore(int before, int data)
+        public void InsertBefore(int data, int before)
         {
             LinkedListNode newNode = new LinkedListNode(data);
             LinkedListNode searchingList = Head;
@@ -121,7 +121,7 @@ namespace CC06
             searchingList.next = newNode;
         }
 
-        public void InsertAfter(int after, int data)
+        public void InsertAfter(int data, int after)
         {
             LinkedListNode newNode = new LinkedListNode(data);
             LinkedListNode searchingList = Head;
