@@ -1,0 +1,15 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.AssemblyReference.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\refint\linked-list-kth.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\ref\linked-list-kth.dll

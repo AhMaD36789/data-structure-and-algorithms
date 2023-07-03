@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\code challenge 06",
-    "\\code challenge 06\\CC06Test"
+    "\\code challenge 06\\CC06",
+    "\\code challenge 07",
+    "\\code challenge 07\\linked-list-kth",
+    "\\code challenge 07\\linked-list-kth\\linked-list-kth"
   ],
-  "SelectedNode": "\\code challenge 06\\CC06Test\\UnitTest1.cs",
+  "SelectedNode": "\\code challenge 07\\linked-list-kth\\linked-list-kth.sln",
   "PreviewInSolutionExplorer": false
 }
