@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zip two linked lists", "zip two linked lists\zip two linked lists.csproj", "{0D3396A5-8627-4D8F-822F-52E76F272D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zipinkedListTEST", "zipinkedListTEST\zipinkedListTEST.csproj", "{68454A47-85F7-48AE-A3A0-E15798C13156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3396A5-8627-4D8F-822F-52E76F272D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3396A5-8627-4D8F-822F-52E76F272D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3396A5-8627-4D8F-822F-52E76F272D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3396A5-8627-4D8F-822F-52E76F272D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68454A47-85F7-48AE-A3A0-E15798C13156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68454A47-85F7-48AE-A3A0-E15798C13156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68454A47-85F7-48AE-A3A0-E15798C13156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68454A47-85F7-48AE-A3A0-E15798C13156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9537A8A-ACB2-47F7-BBF4-072551636944}
+	EndGlobalSection
+EndGlobal
