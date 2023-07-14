@@ -1,0 +1,15 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\bin\Debug\net7.0\Stacks and Queues.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\bin\Debug\net7.0\Stacks and Queues.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\bin\Debug\net7.0\Stacks and Queues.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\bin\Debug\net7.0\Stacks and Queues.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\bin\Debug\net7.0\Stacks and Queues.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.csproj.AssemblyReference.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\refint\Stacks and Queues.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\Stacks and Queues.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 10\Stacks and Queues\Stacks and Queues\obj\Debug\net7.0\ref\Stacks and Queues.dll

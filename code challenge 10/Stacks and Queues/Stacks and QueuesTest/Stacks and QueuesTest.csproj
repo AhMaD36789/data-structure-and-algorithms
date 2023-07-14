@@ -23,4 +23,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Stacks and Queues\Stacks and Queues.csproj" />
+  </ItemGroup>
+
 </Project>
