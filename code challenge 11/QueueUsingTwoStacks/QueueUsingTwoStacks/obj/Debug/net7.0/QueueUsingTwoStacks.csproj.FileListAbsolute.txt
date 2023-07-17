@@ -1,0 +1,15 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\net7.0\QueueUsingTwoStacks.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.csproj.AssemblyReference.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\refint\QueueUsingTwoStacks.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\QueueUsingTwoStacks.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 11\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\net7.0\ref\QueueUsingTwoStacks.dll
