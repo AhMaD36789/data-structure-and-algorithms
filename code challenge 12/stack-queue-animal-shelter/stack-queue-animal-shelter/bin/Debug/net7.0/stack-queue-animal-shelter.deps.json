@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "stack-queue-animal-shelter/1.0.0": {
+        "runtime": {
+          "stack-queue-animal-shelter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stack-queue-animal-shelter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
