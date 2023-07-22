@@ -49,10 +49,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.0.0, )"
             }
           },
           "imports": [
