@@ -1,0 +1,15 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.AssemblyReference.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\refint\stack-queue-brackets.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\ref\stack-queue-brackets.dll
