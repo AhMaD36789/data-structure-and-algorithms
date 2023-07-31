@@ -5519,8 +5519,8 @@
     },
     "Trees/1.0.0": {
       "type": "project",
-      "path": "../trees/Trees.csproj",
-      "msbuildProject": "../trees/Trees.csproj"
+      "path": "../Trees/Trees.csproj",
+      "msbuildProject": "../Trees/Trees.csproj"
     }
   },
   "projectFileDependencyGroups": {
