@@ -1,0 +1,15 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\bin\Debug\net7.0\tree-max.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\bin\Debug\net7.0\tree-max.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\bin\Debug\net7.0\tree-max.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\bin\Debug\net7.0\tree-max.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\bin\Debug\net7.0\tree-max.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.csproj.AssemblyReference.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\refint\tree-max.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\tree-max.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 16\tree-max\obj\Debug\net7.0\ref\tree-max.dll
