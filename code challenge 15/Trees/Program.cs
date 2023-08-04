@@ -22,11 +22,11 @@ namespace Trees
             tree.Add(10);
 
             List<int> list = new List<int>();
-            int[] x = tree.InOrder(tree.Root, list);
+            int[] x = tree.PreOrder(tree.Root, list);
 
             foreach (int x2 in x)
             {
-                Console.Write(x2);
+                Console.WriteLine(x2);
             }
         }
 
