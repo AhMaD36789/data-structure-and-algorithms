@@ -1,0 +1,15 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\bin\Debug\net7.0\tree-breadth-first.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\bin\Debug\net7.0\tree-breadth-first.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\bin\Debug\net7.0\tree-breadth-first.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\bin\Debug\net7.0\tree-breadth-first.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\bin\Debug\net7.0\tree-breadth-first.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.csproj.AssemblyReference.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\refint\tree-breadth-first.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\tree-breadth-first.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 17\tree-breadth-first\obj\Debug\net7.0\ref\tree-breadth-first.dll
