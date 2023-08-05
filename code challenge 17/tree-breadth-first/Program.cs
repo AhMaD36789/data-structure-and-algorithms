@@ -20,22 +20,30 @@ namespace tree_breadth_first
             tree.Add(8);
             tree.Add(10);
 
-            Console.WriteLine("Tree Structure:");
-            PrintTree(tree.Root);
-
-            Console.WriteLine("Breadth-First Traversal:");
-            int[] result = tree.BreadthFirst();
-            Console.WriteLine(string.Join(", ", result));
+            int[] breadth = BreadthFirstCorrectMethodPlacement(tree);
         }
 
-        private static void PrintTree(Node node, string prefix = "", bool isLeft = true)
+        //edit on position of BreadthFirst function
+        public static int[] BreadthFirstCorrectMethodPlacement(BinarySearchTree tree)
         {
-            if (node != null)
+            if (tree.Root == null)
+                return new int[0];
+            List<int> valueOrder = new List<int>();
+            Queue<Node> addOrder = new Queue<Node>();
+            addOrder.Enqueue(tree.Root);
+
+            while (addOrder.Count > 0)
             {
-                Console.WriteLine(prefix + (isLeft ? "|-- " : "\\-- ") + node.Value);
-                PrintTree(node.Left, prefix + (isLeft ? "|   " : "    "), true);
-                PrintTree(node.Right, prefix + (isLeft ? "|   " : "    "), false);
+                Node current = addOrder.Dequeue();
+                valueOrder.Add(current.Value);
+
+                if (current.Left != null)
+                    addOrder.Enqueue(current.Left);
+                if (current.Right != null)
+                    addOrder.Enqueue(current.Right);
+
             }
+            return valueOrder.ToArray();
         }
     }
 }

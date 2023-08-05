@@ -96,7 +96,10 @@ namespace tree_breadth_first.classes
             return arr[arr.Length - 1];
         }
 
-        public int[] BreadthFirst()
+        //Deprecated
+        //Wrong position
+        //should be implemented in program.cs
+        public int[] BreadthFirstDeprecated()
         {
             if (Root == null)
                 return new int[0];

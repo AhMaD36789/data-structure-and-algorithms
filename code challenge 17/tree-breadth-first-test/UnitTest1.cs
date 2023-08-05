@@ -8,8 +8,10 @@ namespace tree_breadth_first_test
         public void BreadthEmptyTree()
         {
             BinarySearchTree tree = new BinarySearchTree();
-            Assert.Null(tree.Root);
+            int[] result = tree.BreadthFirstDeprecated();
+            Assert.Empty(result);
         }
+
         [Fact]
         public void BreadthFilledTree()
         {
@@ -27,8 +29,8 @@ namespace tree_breadth_first_test
             tree.Add(8);
             tree.Add(10);
 
-            int[] expected = new int[] { 6,3,9,1,4,7,11,2,5,8,10 };
-            int[] result = tree.BreadthFirst();
+            int[] expected = new int[] { 6, 3, 9, 1, 4, 7, 11, 2, 5, 8, 10 };
+            int[] result = tree.BreadthFirstDeprecated();
 
             Assert.Equal(expected, result);
         }
