@@ -1,0 +1,14 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\bin\Debug\net7.0\InsertionSort.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\bin\Debug\net7.0\InsertionSort.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\bin\Debug\net7.0\InsertionSort.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\bin\Debug\net7.0\InsertionSort.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\bin\Debug\net7.0\InsertionSort.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\refint\InsertionSort.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\InsertionSort.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 26\InsertionSort\obj\Debug\net7.0\ref\InsertionSort.dll
