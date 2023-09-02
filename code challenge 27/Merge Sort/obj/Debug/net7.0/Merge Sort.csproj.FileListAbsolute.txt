@@ -1,0 +1,14 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\bin\Debug\net7.0\Merge Sort.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\bin\Debug\net7.0\Merge Sort.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\bin\Debug\net7.0\Merge Sort.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\bin\Debug\net7.0\Merge Sort.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\bin\Debug\net7.0\Merge Sort.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\refint\Merge Sort.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\Merge Sort.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 27\Merge Sort\obj\Debug\net7.0\ref\Merge Sort.dll

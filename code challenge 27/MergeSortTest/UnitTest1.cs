@@ -1,0 +1,19 @@
+using Merge_Sort.Classes;
+
+namespace MergeSortTest
+{
+    public class UnitTest1
+    {
+        [Theory]
+        [InlineData(new int[] { 7, 6, 5, 4, 3, 2, 1 }, new int[] { 1, 2, 3, 4, 5, 6, 7 })]
+        [InlineData(new int[] { 20, 18, 12, 8, 5, -2 }, new int[] { -2, 5, 8, 12, 18, 20 })]
+        [InlineData(new int[] { 5, 12, 7, 5, 5, 7 }, new int[] { 5, 5, 5, 7, 7, 12 })]
+        [InlineData(new int[] { 2, 3, 5, 7, 13, 11 }, new int[] { 2, 3, 5, 7, 11, 13 })]
+        public void Testing_Arrays(int[] Arr, int[] expected)
+        {
+            MergeSortAlgorithm algorithm = new MergeSortAlgorithm();
+            algorithm.MergeSort(Arr);
+            Assert.Equal(expected, Arr);
+        }
+    }
+}
