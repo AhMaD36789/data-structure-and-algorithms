@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\code challenge 27"
+    "\\code challenge 27",
+    "\\code challenge 27\\Merge Sort",
+    "\\code challenge 27\\MergeSortTest"
   ],
-  "SelectedNode": "\\code challenge 27\\3.png",
+  "SelectedNode": "\\code challenge 27\\MergeSortTest\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }

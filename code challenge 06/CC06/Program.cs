@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace CC06
+﻿namespace CC06
 {
     public class Program
     {
