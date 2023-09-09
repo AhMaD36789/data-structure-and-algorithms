@@ -1,0 +1,14 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\bin\Debug\net7.0\Sort-Objects.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\bin\Debug\net7.0\Sort-Objects.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\bin\Debug\net7.0\Sort-Objects.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\bin\Debug\net7.0\Sort-Objects.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\bin\Debug\net7.0\Sort-Objects.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\refint\Sort-Objects.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\Sort-Objects.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 28\Sort-Objects\obj\Debug\net7.0\ref\Sort-Objects.dll

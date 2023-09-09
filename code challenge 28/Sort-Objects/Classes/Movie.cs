@@ -6,6 +6,22 @@
         public int year { get; set; }
         public List<string> genres { get; set; }
 
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+                return false;
+
+            Movie other = (Movie)obj;
+            return title == other.title && year == other.year;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(title, year);
+        }
+
+
         public Movie[] SortArrayMoviesByYear(Movie[] unsorted)
         {
             if (unsorted.Length <= 1)
