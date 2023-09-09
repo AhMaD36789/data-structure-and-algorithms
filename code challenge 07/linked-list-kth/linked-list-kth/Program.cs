@@ -1,6 +1,4 @@
-﻿using static System.Net.Mime.MediaTypeNames;
-
-namespace linked_list_kth
+﻿namespace linked_list_kth
 {
     public class Program
     {
