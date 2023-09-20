@@ -1,0 +1,14 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\bin\Debug\net7.0\Tree intersection.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\bin\Debug\net7.0\Tree intersection.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\bin\Debug\net7.0\Tree intersection.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\bin\Debug\net7.0\Tree intersection.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\bin\Debug\net7.0\Tree intersection.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\refint\Tree intersection.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\Tree intersection.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 32\Tree intersection\obj\Debug\net7.0\ref\Tree intersection.dll
