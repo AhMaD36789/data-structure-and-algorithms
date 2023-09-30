@@ -2,84 +2,85 @@
 {
     public class Hashtable_class
     {
-        private LinkedList<KeyValuePair<string, string>>[] items;
+        private LinkedList<KeyValuePair<string, string>>[] hashItems;
 
         public Hashtable_class(int size)
         {
-            items = new LinkedList<KeyValuePair<string, string>>[size];
+            hashItems = new LinkedList<KeyValuePair<string, string>>[size];
         }
 
         public void Set(string key, string value)
         {
-            int position = GetArrayPosition(key);
-            LinkedList<KeyValuePair<string, string>> linkedList = GetLinkedList(position);
-            var item = new KeyValuePair<string, string>(key, value);
-            linkedList.AddLast(item);
+            int hashedKey = GetArrayPosition(key);
+
+            if (hashItems[hashedKey] == null)
+            {
+                hashItems[hashedKey] = new LinkedList<KeyValuePair<string, string>>();
+            }
+
+            hashItems[hashedKey].AddLast(new KeyValuePair<string, string>(key, value));
         }
 
         public string Get(string key)
         {
-            int position = GetArrayPosition(key);
-            LinkedList<KeyValuePair<string, string>> linkedList = GetLinkedList(position);
-            foreach (KeyValuePair<string, string> pair in linkedList)
+            int hashedKey = GetArrayPosition(key);
+            LinkedList<KeyValuePair<string, string>> LinkedList = GetLinkedList(hashedKey);
+            foreach (KeyValuePair<string, string> keyValuePair in LinkedList)
             {
-                if (pair.Key.Equals(key))
+                if (keyValuePair.Key == key)
                 {
-                    return pair.Value;
+                    return keyValuePair.Value;
                 }
             }
-
             return null;
         }
 
         public bool Has(string key)
         {
-            int position = GetArrayPosition(key);
-            LinkedList<KeyValuePair<string, string>> linkedList = GetLinkedList(position);
-            foreach (KeyValuePair<string, string> pair in linkedList)
+            int hashedKey = GetArrayPosition(key);
+            LinkedList<KeyValuePair<string, string>> LinkedList = GetLinkedList(hashedKey);
+            foreach (KeyValuePair<string, string> keyValuePair in LinkedList)
             {
-                if (pair.Key.Equals(key))
+                if (keyValuePair.Key == key)
                 {
                     return true;
                 }
             }
-
             return false;
         }
 
         public List<string> Keys()
         {
             List<string> keys = new List<string>();
-            for (int i = 0; i < items.Length; i++)
+            for (int i = 0; i < hashItems.Length; i++)
             {
-                if (items[i] != null)
+                if (hashItems[i] != null)
                 {
-                    LinkedList<KeyValuePair<string, string>> linkedList = items[i];
-                    foreach (KeyValuePair<string, string> pair in linkedList)
+                    LinkedList<KeyValuePair<string, string>> pairs = hashItems[i];
+                    foreach (var item in pairs)
                     {
-                        keys.Add(pair.Key);
+                        keys.Add(item.Key);
                     }
                 }
             }
-
             return keys;
         }
 
         protected int GetArrayPosition(string key)
         {
-            int position = key.GetHashCode() % items.Length;
-            return Math.Abs(position);
+            int pos = key.GetHashCode() % hashItems.Length;
+            return Math.Abs(pos);
         }
 
-        protected LinkedList<KeyValuePair<string, string>> GetLinkedList(int position)
+        public LinkedList<KeyValuePair<string, string>> GetLinkedList(int position)
         {
-            LinkedList<KeyValuePair<string, string>> linkedList = items[position];
+            LinkedList<KeyValuePair<string, string>> linkedList = hashItems[position];
+
             if (linkedList == null)
             {
                 linkedList = new LinkedList<KeyValuePair<string, string>>();
-                items[position] = linkedList;
+                hashItems[position] = linkedList;
             }
-
             return linkedList;
         }
     }

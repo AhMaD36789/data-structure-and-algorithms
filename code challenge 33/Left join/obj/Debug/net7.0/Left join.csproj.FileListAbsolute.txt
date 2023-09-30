@@ -1,0 +1,14 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\bin\Debug\net7.0\Left join.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\bin\Debug\net7.0\Left join.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\bin\Debug\net7.0\Left join.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\bin\Debug\net7.0\Left join.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\bin\Debug\net7.0\Left join.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\refint\Left join.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\Left join.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 33\Left join\obj\Debug\net7.0\ref\Left join.dll
