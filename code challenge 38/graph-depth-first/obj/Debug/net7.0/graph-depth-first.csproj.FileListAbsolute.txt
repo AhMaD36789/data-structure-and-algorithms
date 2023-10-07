@@ -1,0 +1,14 @@
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\bin\Debug\net7.0\graph-depth-first.exe
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\bin\Debug\net7.0\graph-depth-first.deps.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\bin\Debug\net7.0\graph-depth-first.runtimeconfig.json
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\bin\Debug\net7.0\graph-depth-first.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\bin\Debug\net7.0\graph-depth-first.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.AssemblyInfoInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.AssemblyInfo.cs
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\refint\graph-depth-first.dll
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.pdb
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\graph-depth-first.genruntimeconfig.cache
+D:\Visual Studio\Data Structure And Algorithms\AhMaD36789\data-structure-and-algorithms\code challenge 38\graph-depth-first\obj\Debug\net7.0\ref\graph-depth-first.dll
